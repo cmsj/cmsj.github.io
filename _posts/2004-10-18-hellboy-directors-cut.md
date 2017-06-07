@@ -1,5 +1,5 @@
 ---
-title: Hellboy: Directors Cut
+title: "Hellboy: Directors Cut"
 date: 2004-10-18
 ---
 

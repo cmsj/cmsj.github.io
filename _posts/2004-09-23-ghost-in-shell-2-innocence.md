@@ -1,5 +1,5 @@
 ---
-title: Ghost in the shell 2: Innocence
+title: "Ghost in the shell 2: Innocence"
 date: 2004-09-23
 ---
 

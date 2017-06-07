@@ -4,8 +4,8 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
+  <h1>As what as you like</h1>
+
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -35,7 +35,5 @@ layout: default
     <span class="next ">Next</span>
   {% endif %}
   </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>

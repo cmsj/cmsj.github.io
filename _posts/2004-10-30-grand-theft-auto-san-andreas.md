@@ -1,5 +1,5 @@
 ---
-title: Grand Theft Auto: San Andreas
+title: "Grand Theft Auto: San Andreas"
 date: 2004-10-30
 ---
 

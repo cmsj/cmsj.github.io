@@ -1,5 +1,5 @@
 ---
-title: My new project: juicyD (maybe)
+title: "My new project: juicyD (maybe)"
 date: 2008-12-17
 ---
 

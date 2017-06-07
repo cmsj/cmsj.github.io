@@ -1,5 +1,5 @@
 ---
-title: New Terminator feature: Directional terminal navigation
+title: "New Terminator feature: Directional terminal navigation"
 date: 2008-12-20
 ---
 

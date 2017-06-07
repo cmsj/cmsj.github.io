@@ -1,5 +1,5 @@
 ---
-title: Half-Life 2: Deathmatch
+title: "Half-Life 2: Deathmatch"
 date: 2004-12-12
 ---
 

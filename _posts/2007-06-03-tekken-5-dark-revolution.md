@@ -1,5 +1,5 @@
 ---
-title: Tekken 5: Dark Revolution
+title: "Tekken 5: Dark Revolution"
 date: 2007-06-03
 ---
 

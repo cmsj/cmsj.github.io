@@ -1,5 +1,5 @@
 ---
-title: Old and new: Mixing irssi and iPhones for fun and no profit
+title: "Old and new: Mixing irssi and iPhones for fun and no profit"
 date: 2010-12-14
 ---
 

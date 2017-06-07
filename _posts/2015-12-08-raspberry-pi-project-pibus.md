@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi project: PiBus
+title: "Raspberry Pi project: PiBus"
 date: 2015-12-08
 ---
 
