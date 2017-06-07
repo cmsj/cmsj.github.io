@@ -8,18 +8,18 @@ I figured I'd collect them as a single post, to help future searchers, so withou
 Firstly, sending an iMessage:
 
 ```applescript
-tell application "Messages"</span>
-  send "This is an iMessage" to buddy "foo@bar.com" of (service 1 whose service type is iMessage)</span>
-end tell</span>
+tell application "Messages"
+  send "This is an iMessage" to buddy "foo@bar.com" of (service 1 whose service type is iMessage)
+end tell
 ```
 
 The buddy address can be either an email or a phone number that's registered with Apple for use with iMessage.
 Secondly, sending an SMS:
 
 ```applescript
-tell application "Messages"</span>
-  send "This is an SMS" to buddy "+1234567890" of service "SMS"</span>
-end tell</span>
+tell application "Messages"
+  send "This is an SMS" to buddy "+1234567890" of service "SMS"
+end tell
 ```
 
 Here, the buddy address should be a phone number.
