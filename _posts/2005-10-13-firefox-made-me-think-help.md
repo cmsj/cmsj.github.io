@@ -1,6 +1,7 @@
-Title: Firefox made me think, help!
-Date: 2005-10-13
-Tags: FOSS Rant
+---
+title: Firefox made me think, help!
+date: 2005-10-13
+---
 
 Since Firefox doesn't seem to make it very easy to import/export the data it creates (beyond bookmarks at least), I probed my profile and found a signons.txt file which seemed to contain the information, albeit encrypted. No problem I thought, that will be the password I set for the master thingy in firefox. Wrong was I.
 A little googling turns up that you should copy the key3.db file too, which is fair enough, but I really think this kind of thing should be easier. That does have a nasty habit of tending to introduce a lot of complexity as more aspects of the program get more flexible, especially from the user's point of view. Interface designers are getting pretty good at making simple interfaces that do the right thing most of the time, with more advanced options hidden away for when they are needed and this is something I like a lot, but it's a shame that all that functionality is isolated with the user.

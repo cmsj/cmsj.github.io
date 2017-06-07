@@ -1,6 +1,7 @@
-Title: Paperless workflow
-Date: 2012-07-01
-Tags: apple Techie workflow Docs pdf paperless
+---
+title: Paperless workflow
+date: 2012-07-01
+---
 
 **Introduction**
 ----------------

@@ -1,6 +1,7 @@
-Title: A couple of X300 tidbits...
-Date: 2008-04-20
-Tags: Techie
+---
+title: A couple of X300 tidbits...
+date: 2008-04-20
+---
 
 ... neither of them good.
 First off, in a stunning piece of fail, Lenovo have used a drive from one of the few manufacturers that enforces region coding on DVDs in hardware - Matshita, aka Matsushita, aka Panasonic. This is very frustrating and made worse by the drive shipping in a state with no region code set, so no DVDs at all will play. I now either have the choice of changing it no more than 5 times, or risking the drive with some custom firmware which claims to remove the region code.

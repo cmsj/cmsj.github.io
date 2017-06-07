@@ -1,6 +1,7 @@
-Title: An adventure with an HP printer/scanner and Ubuntu
-Date: 2010-03-15
-Tags: FOSS Techie Ubuntu
+---
+title: An adventure with an HP printer/scanner and Ubuntu
+date: 2010-03-15
+---
 
 For a while now I've been thinking about some ideas for a project that will require a scanner. No problem you think, scanners of various kinds have been supported in Linux for a long time.
 I dislike ordering hardware online because of the shipping lag and because I'm a sucker for the retail experience, so I was checking out which devices would work with Ubuntu and which devices were on sale in my local computer supermarket. The latter was a depressingly short list, and the former was getting annoying to search for, but I stumbled on the idea of a multi-function printer. It turns out that it's cheaper to buy a scanner as part of a printer than it is to buy a scanner on its own (granted the resolution of the scanner isn't quite as good, but it's more than sufficient for my needs). The reason for this is undoubtedly that the manufacturers are expecting to make up their money by selling me ink cartridges every few months.

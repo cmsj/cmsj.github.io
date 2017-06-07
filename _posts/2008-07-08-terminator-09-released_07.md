@@ -1,6 +1,7 @@
-Title: Terminator 0.9 released!
-Date: 2008-07-08
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Terminator 0.9 released!
+date: 2008-07-08
+---
 
 It's been far too long, but here it is. Terminator 0.9.
 As usual, head over to the [home page](http://www.tenshu.net/terminator/ "Terminator Home Page") to get all the links and information you need.

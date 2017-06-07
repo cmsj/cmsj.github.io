@@ -1,6 +1,7 @@
-Title: Last bongo in Brighton
-Date: 2005-04-21
-Tags: Music
+---
+title: Last bongo in Brighton
+date: 2005-04-21
+---
 
 ![](http://www.tenshu.net/wp-content/format_gig.jpg "DJ Format (left), Abdominal (centre), D-Sicive (right)")Last night I went to a DJ Format gig at the most excellent Concorde 2 here in Brighton, with Alex and Simon.
 In short, it rocked!

@@ -1,6 +1,7 @@
-Title: Hellboy: Directors Cut
-Date: 2004-10-18
-Tags: Movies
+---
+title: Hellboy: Directors Cut
+date: 2004-10-18
+---
 
 Hellboy is another release in the recent spate of comic inspired movies riding the dollar wave of Spiderman and X-Men. Unlike some of them, it's actually a pretty good film.
 It's pretty standard stuff in terms of a comic action movie, but the performances set the film apart from its peers. Ron Perlman is very amusing as the stone-fisted Ted Danson lookalike "Hellboy", John Hurt is convincing as the doddery Professor (classic comic stuff, a father-like figure who provides moral guidance and then dies somehow) and Karl Roden is sinister as Rasputin.

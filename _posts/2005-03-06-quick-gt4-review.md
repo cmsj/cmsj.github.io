@@ -1,6 +1,7 @@
-Title: Quick GT4 review
-Date: 2005-03-06
-Tags: Games
+---
+title: Quick GT4 review
+date: 2005-03-06
+---
 
 I should start out by saying that I am a big fan of GT3, but I only played GT2 a little bit and hardly played GT at all.
 With that out of the way, I think GT4 is a fantastic game. To be fair though it is only really the culmination of what GT3 could have been and isn't a huge leap forward. That is ok though, GT3 was released 4 years ago and probably took a couple of years at least to write, so a lot will have been learned since then about exploiting the PS2 to the fullest. The addition of a huge library of cars and a good number of tracks only improves the experience. Disappointingly absent is online play, instead we get LAN play and a particularly silly photo mode.

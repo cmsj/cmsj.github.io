@@ -1,6 +1,7 @@
-Title: Epic Terminator refactoring afoot
-Date: 2009-12-19
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Epic Terminator refactoring afoot
+date: 2009-12-19
+---
 
 The current bzr repository for Terminator began its life in November 2006 with the simplest possible implementation of the concept of packing multiple terminals into one window. In the 3 years since then we have expanded and extended the code in a variety of directions to produce a moderately compelling feature set, but one that is really obviously incomplete.
 In the same time period we've also seen a really gratifying amount of adoption - I believe our active userbase numbers in the thousands if not tens of thousands. I am forced to largely estimate these numbers for all the usual FOSS reasons, but it's all based on one real metric - Ubuntu has about a million users reporting popcon data and over 10,000 of those have Terminator installed. I don't actually think that they all use it, but nonetheless it's the kind of number that makes you think "hey maybe I need to be doing more for these folks".

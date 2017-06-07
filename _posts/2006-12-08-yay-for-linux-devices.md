@@ -1,6 +1,7 @@
-Title: yay for linux devices
-Date: 2006-12-08
-Tags: General
+---
+title: yay for linux devices
+date: 2006-12-08
+---
 
     BusyBox v1.00 (2006.11.07-01:40+0000) Built-in shell (ash)
     Enter 'help' for a list of built-in commands.

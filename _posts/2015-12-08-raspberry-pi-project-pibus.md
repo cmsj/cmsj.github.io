@@ -1,6 +1,7 @@
-Title: Raspberry Pi project: PiBus
-Date: 2015-12-08
-Tags: FOSS rPi Python
+---
+title: Raspberry Pi project: PiBus
+date: 2015-12-08
+---
 
 The premise of this project is simple - my family lives in London, there's a bus route that runs along our road, and we use it a lot to take the kids places.
 The reality of using the bus is a little more complex - getting three kids ready to go out, is a nightmare and it's not made any easier by checking a travel app on your phone to see how close the bus is.

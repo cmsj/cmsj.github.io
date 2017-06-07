@@ -1,6 +1,7 @@
-Title: Tekken 5: Dark Revolution
-Date: 2007-06-03
-Tags: Games
+---
+title: Tekken 5: Dark Revolution
+date: 2007-06-03
+---
 
 This is a PSP game which has been ported to the PS3 and had its graphics restored to the original arcade levels.
 It's a Tekken game, what do you want, poetry? You fight people in the traditional rounds system. When you beat one, you fight another and it gets a bit harder. That's it.

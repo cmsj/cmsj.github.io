@@ -1,6 +1,7 @@
-Title: Thinkpad kernel module in Ubuntu 9.10 (Karmic)
-Date: 2009-09-18
-Tags: FOSS Techie Ubuntu
+---
+title: Thinkpad kernel module in Ubuntu 9.10 (Karmic)
+date: 2009-09-18
+---
 
 The Ubuntu Kernel Team has decided to remove the tp\_smapi module from our kernel for 9.10 (Karmic Koala) because the author chooses to remain anonymous and it is therefore impossible to be sure that the code is not based on incorrectly obtained information.
 Slightly annoying perhaps, but ultimately a decision that's hard to argue with and fortunately one that's pretty easy to work around. I wish the author would clear things up once and for all because the tp\_smapi module is desperately important for Thinkpad owners wishing to protect the life of their laptop battery. Given that my new X301 is tasked with a lifetime of 3 years, I am particularly keen to protect its battery!

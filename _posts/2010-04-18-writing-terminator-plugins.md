@@ -1,6 +1,7 @@
-Title: Writing Terminator plugins
-Date: 2010-04-18
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Writing Terminator plugins
+date: 2010-04-18
+---
 
 Terminator Plugin HOWTO
 -----------------------

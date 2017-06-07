@@ -1,6 +1,7 @@
-Title: Lifesaver for Maverick
-Date: 2010-09-21
-Tags: FOSS Techie Ubuntu Rant Lifesaver
+---
+title: Lifesaver for Maverick
+date: 2010-09-21
+---
 
 I think that enough of the planets have aligned in the shape of a failboat that I have been able to successfully upload a source package of Lifesaver to its PPA for Maverick.
 I might be wrong though, we'll find out shortly when Launchpad processes the ridiculous output of several ridiculous tools.

@@ -1,6 +1,7 @@
-Title: Alfred 2 workflows
-Date: 2013-03-16
-Tags: apple Techie workflow alfred
+---
+title: Alfred 2 workflows
+date: 2013-03-16
+---
 
 Since I started using OS X as my primary desktop, I've loved Spotlight for launching apps and finding files. I resisted trying any of the replacement apps, for fear of the bottomless pit of customisation that they seemed to offer.
 With the very recent release of Alfred 2, I was finally tempted to try it by the previews of their Workflow feature.

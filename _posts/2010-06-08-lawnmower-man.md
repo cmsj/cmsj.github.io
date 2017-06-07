@@ -1,6 +1,7 @@
-Title: The Lawnmower Man
-Date: 2010-06-08
-Tags: FOSS Techie Ubuntu
+---
+title: The Lawnmower Man
+date: 2010-06-08
+---
 
 Introduction
 ============

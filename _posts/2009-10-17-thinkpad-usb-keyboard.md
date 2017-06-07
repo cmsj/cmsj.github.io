@@ -1,6 +1,7 @@
-Title: Thinkpad USB keyboard
-Date: 2009-10-17
-Tags: Techie Ubuntu
+---
+title: Thinkpad USB keyboard
+date: 2009-10-17
+---
 
 Yesterday I took delivery of a new Thinkpad USB keyboard because I've started putting my laptop up on a stand to be next to it's external monitor.
 In so doing I needed a keyboard and the ten quid Logitech was making me very sad, hence the Thinkpad one.

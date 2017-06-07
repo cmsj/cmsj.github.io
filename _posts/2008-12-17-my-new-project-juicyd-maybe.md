@@ -1,6 +1,7 @@
-Title: My new project: juicyD (maybe)
-Date: 2008-12-17
-Tags: FOSS Techie
+---
+title: My new project: juicyD (maybe)
+date: 2008-12-17
+---
 
 Being a sysadmin I tend to install operating systems quite often on various bits of hardware. This means a lot of CDs. I carry at least 4 CDs in my laptop sleeve and that's not really enough, plus I sometimes burn CDs to update firmwares in laptops, etc.
 It doesn't sound like the end of the world, because it's not, but that doesn't mean the status quo is worth keeping. I've been thinking for a while now that it would be great to have a solid-state device I could use as a USB CDROM. I could load it up with a bunch of ISOs and boot from them without having to carry round a load of CDs or waste blank CDs for BIOS/firmware upgrades that are only a few MB.

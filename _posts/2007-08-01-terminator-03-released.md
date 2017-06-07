@@ -1,6 +1,7 @@
-Title: Terminator 0.3 released
-Date: 2007-08-01
-Tags: FOSS Techie Terminator
+---
+title: Terminator 0.3 released
+date: 2007-08-01
+---
 
 Terminator 0.3 is out, with the expected Terminal closing feature. This really makes the Splitting from 0.2 much more useful.
 As usual, please head over [here](http://www.tenshu.net/terminator/) for the goodness.

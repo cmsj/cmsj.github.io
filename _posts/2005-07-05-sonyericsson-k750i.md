@@ -1,6 +1,7 @@
-Title: SonyEricsson k750i
-Date: 2005-07-05
-Tags: Techie
+---
+title: SonyEricsson k750i
+date: 2005-07-05
+---
 
 I just upgraded to a k750i from a t610 and my initial impression after a few days is that it's a very good phone overall. It's not perfect, but it many of the weaknessesof the t610 are gone or minimised, and new features have been added and integrated extremely well.
 Visually the phone is quite simple, I have a mostly black one and half of the front is flat clear plastic for the screen, the rest is buttons, which are bigger than those on the t610, but seem like they are quite flimsy and may be easily encouraged to fall off. Time will have to tell on that.

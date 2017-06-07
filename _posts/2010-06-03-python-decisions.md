@@ -1,6 +1,7 @@
-Title: Python decisions
-Date: 2010-06-03
-Tags: FOSS Techie Ubuntu Python
+---
+title: Python decisions
+date: 2010-06-03
+---
 
 Every time I find myself hacking on some Python I find myself second guessing all sorts of tiny design decisions and so I figure the only way to get any kind of perspective on them is to talk about them. Either I'll achieve more clarity through constructing explanations of what I was thinking, or people will comment with useful insights. Hopefully the latter, but this is hardly the most popular blog in the world ;)
 So. What shall we look at first. Well, I just hacked up a tiny script last night to answer a simple question:

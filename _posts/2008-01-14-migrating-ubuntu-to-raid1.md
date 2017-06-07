@@ -1,6 +1,7 @@
-Title: Migrating Ubuntu to RAID1
-Date: 2008-01-14
-Tags: FOSS Techie Ubuntu
+---
+title: Migrating Ubuntu to RAID1
+date: 2008-01-14
+---
 
 I have a fair stack of data that I quite like, some of which is vitally important, stored in multiple places and generally not at concern for loss without some very bad things happening already.
 The rest I'd just like to keep. For example, I wouldn't cry if I lost all my uni work, but it would be a shame. Same for the working emulation of my trusty Amiga that I used for so long, but now barely remember how to use.

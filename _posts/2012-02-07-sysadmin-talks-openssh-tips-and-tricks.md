@@ -1,6 +1,7 @@
-Title: A sysadmin talks OpenSSH tips and tricks
-Date: 2012-02-07
-Tags: FOSS Techie Ubuntu Canonical
+---
+title: A sysadmin talks OpenSSH tips and tricks
+date: 2012-02-07
+---
 
 <span class="Apple-style-span" style="font-size: large;">**My take on more advanced SSH usage**</span>
 I've seen a few articles recently on sites like HackerNews which claimed to cover some advanced SSH techniques/tricks. They were good articles, but for me (as a systems administrator) didn't get into the really powerful guts of OpenSSH.

@@ -1,6 +1,7 @@
-Title: Transcoding video for the PS3 in Ubuntu
-Date: 2007-06-03
-Tags: FOSS Ubuntu Games
+---
+title: Transcoding video for the PS3 in Ubuntu
+date: 2007-06-03
+---
 
 The title says it all really. I've banged on about games a bit and now it's time to do something involving curiosity!
 So I know how to, should i want to for any reason, this is how you can make videos that are playable on a PS3 (only tested on firmware 1.80). Note that it doesn't transcode to H.264, but instead uses a lesser MPEG4 profile of some kind (mpeg4 appears to be entirely too complicated to figure out!).

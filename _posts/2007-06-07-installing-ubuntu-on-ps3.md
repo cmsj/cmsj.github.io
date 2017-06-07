@@ -1,6 +1,7 @@
-Title: Installing Ubuntu on the PS3
-Date: 2007-06-07
-Tags: FOSS Ubuntu Games
+---
+title: Installing Ubuntu on the PS3
+date: 2007-06-07
+---
 
 I've yet to complete this, because I stopped my attempts last night when I reached an unusual situation.
 Specifically, I was doing the partitioning manually, but the two visible disks had no partition tables. Not wanting to trash the PS3 disk I didn't let it create the tables, so had to abort.

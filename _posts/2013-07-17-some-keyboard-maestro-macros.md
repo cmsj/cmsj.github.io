@@ -1,6 +1,7 @@
-Title: Some Keyboard Maestro macros
-Date: 2013-07-17
-Tags: OSX keyboard maestro Techie mac
+---
+title: Some Keyboard Maestro macros
+date: 2013-07-17
+---
 
 I've started using [Keyboard Maestro](http://www.keyboardmaestro.com/main/) recently and it is one impressive piece of software.
 Here are a couple of the macros I've written that aren't completely tied to my system:

@@ -1,6 +1,7 @@
-Title: Ubuntu consistent network hackery
-Date: 2007-08-22
-Tags: FOSS Techie Ubuntu
+---
+title: Ubuntu consistent network hackery
+date: 2007-08-22
+---
 
 I use a docking station with my laptop. When it's in the dock it has a wired connection, otherwise it's just wireless.
 Since most of my work involves ssh and I tend to have several long running ssh sessions at a time, it's quite annoying if I quickly undock to go and work in another room and have to reconnect everything.

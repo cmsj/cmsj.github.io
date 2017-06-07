@@ -1,6 +1,7 @@
-Title: Brewing Lifesaver 1.1
-Date: 2009-09-16
-Tags: FOSS Techie Ubuntu
+---
+title: Brewing Lifesaver 1.1
+date: 2009-09-16
+---
 
 If you're using the Livesaver PPA I mentioned in my previous post you should shortly get offered a package of 1.1 which I'm almost ready to release.
 I want to push it into the PPA first to get a little testing before officially tagging the release. Please file bugs if you spot any!

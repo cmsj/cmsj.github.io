@@ -1,6 +1,7 @@
-Title: New project released - Lifesaver
-Date: 2009-09-15
-Tags: FOSS Techie Ubuntu
+---
+title: New project released - Lifesaver
+date: 2009-09-15
+---
 
 For a few days now I've been hacking away on a new project: Lifesaver.
 The idea is really simple - it's a screensaver for GNOME that displays recent posts about Ubuntu from Twitter and Identi.ca. That's it!

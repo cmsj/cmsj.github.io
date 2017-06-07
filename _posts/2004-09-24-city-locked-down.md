@@ -1,6 +1,7 @@
-Title: The city, locked down
-Date: 2004-09-24
-Tags: General
+---
+title: The city, locked down
+date: 2004-09-24
+---
 
 I work immediately off the seafront in Brighton, pretty much round the corner from the famous Grand Hotel, and the not so famous Brighton Centre. We are one of the three party political conference cities, so each year we have one of the three main political parties roll into town. Since I've worked in the same place for a little over 4 years now I've seen a complete rotation and it is quite fascinating how they vary.
 This year we are "blessed" with Labour, the ruling party. What this means is that security is tighter than for the other two. The Tories have minimal security and the Police send a community liason officer for the Lib Dems ;-)

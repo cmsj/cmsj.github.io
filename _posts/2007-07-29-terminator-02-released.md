@@ -1,6 +1,7 @@
-Title: Terminator 0.2 released
-Date: 2007-07-29
-Tags: FOSS Techie Terminator
+---
+title: Terminator 0.2 released
+date: 2007-07-29
+---
 
 Two days in a row! This is not going to be a continuous thing, but since it's the weekend I have been hacking on Terminator a lot.
 This is a big release for me, it finally brings in one of the crucial features required to make this more than just a script for 4 terminals in a window - you can now split terminals on demand. Right click on one and you can turn it into two terminals, horizontally or vertically.

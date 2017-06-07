@@ -1,6 +1,7 @@
-Title: Terminator 0.10 released
-Date: 2008-08-29
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Terminator 0.10 released
+date: 2008-08-29
+---
 
 It's been a week or so shy of two months since we pushed 0.9 out of the door and originally we planned on following up with a 0.9.1 release shortly after to clear up some bugs, but for a variety of not particularly good reasons this never happened.
 Instead we've got a new release for you... 0.10.

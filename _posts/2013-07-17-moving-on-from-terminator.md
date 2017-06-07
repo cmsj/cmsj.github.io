@@ -1,6 +1,7 @@
-Title: Moving on from Terminator
-Date: 2013-07-17
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Moving on from Terminator
+date: 2013-07-17
+---
 
 Anyone who's been following Terminator knows this post has been a long time coming and should not be surprised by it.
 

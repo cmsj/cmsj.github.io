@@ -1,6 +1,7 @@
-Title: Team America
-Date: 2004-10-26
-Tags: Movies
+---
+title: Team America
+date: 2004-10-26
+---
 
 Ok ok, so I slightly downloaded a copy of Team America: World Police. Sue me, I'm gonna go pay my dorrah when it comes out in several MONTHS time and buy the DVD ;)
 It is extremely childish and stupid, but it was also hilarious. I can see a lot of people aren't going to like it though and quite a few will probably be offended by it.

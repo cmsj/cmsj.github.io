@@ -1,6 +1,7 @@
-Title: Firefox bad for Linux?
-Date: 2007-07-28
-Tags: FOSS Techie Rant
+---
+title: Firefox bad for Linux?
+date: 2007-07-28
+---
 
 Firefox is a very popular piece of software. Claims run up to 100 million users, which is really good and on the whole I think it's a very good browser.
 However.

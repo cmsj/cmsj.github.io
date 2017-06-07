@@ -1,6 +1,7 @@
-Title: Final approach for Terminator epic-refactor
-Date: 2010-01-21
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Final approach for Terminator epic-refactor
+date: 2010-01-21
+---
 
 I'm done hacking on the Terminator epic-refactor branch for the evening and the following has been achieved today (in chronological order):
 

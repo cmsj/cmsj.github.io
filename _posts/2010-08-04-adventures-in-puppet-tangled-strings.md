@@ -1,6 +1,7 @@
-Title: Adventures in Puppet: Tangled Strings
-Date: 2010-08-04
-Tags: FOSS Puppet Techie Ubuntu
+---
+title: Adventures in Puppet: Tangled Strings
+date: 2010-08-04
+---
 
 I am trying to do as much management on my new VM servers as possible with Puppet, but these are machines I still frequently log on to, and not everything is managed by Puppet, so it's entirely possible that in a fit of forgetfulness I will start editing a file that Puppet is managing and then be annoyed when my changes are lost next time Puppet runs.
 Since prior preparation and planning prevents pitifully poor performance, I decided to do something about this.

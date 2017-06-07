@@ -1,6 +1,7 @@
-Title: Suck suck suck suck suck
-Date: 2004-11-15
-Tags: Rant
+---
+title: Suck suck suck suck suck
+date: 2004-11-15
+---
 
 Suck suck suck suck suck. That's how much a really sucky thing sucks. What sucks more than that is crap like [this](http://www.grain.org/articles/?id=6).
 For those who don't read the link, the 4 word summary is "Operation Screw The Iraqis", this time by rewriting their constitution to place all sorts of insane legal restrictions on their agricultural industry and specifically the *seeds* they are allowed to use. I mean, come on, we've been doing this agriculture thing for thousands of years without needing large corporations to sell us infertile seeds we have to buy year after year.

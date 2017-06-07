@@ -1,6 +1,7 @@
-Title: Cod and eyes
-Date: 2007-11-23
-Tags: Games
+---
+title: Cod and eyes
+date: 2007-11-23
+---
 
 While I was in the US recently I took advantage of the exchange rate to buy a handful of goodies for my PS3 in the form of a PS Eye camera, Call of Duty 4 and a Bluray disc of Pixar short films.
 To get it out of the way quickly, the Pixar shorts disc is great - I've always admired the work of John Lasseter and it's nice to have all the classics in super high quality, all in one place. Disney suck for plastering adverts and trailers all over the disc and stickers all over the box, but whatever.

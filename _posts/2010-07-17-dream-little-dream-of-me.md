@@ -1,6 +1,7 @@
-Title: Dream a little dream of me
-Date: 2010-07-17
-Tags: Movies
+---
+title: Dream a little dream of me
+date: 2010-07-17
+---
 
 Last night I had a lovely meal out and then saw Inception with Rike and some friends.
 I've really enjoyed all of Christopher Nolan's previous films and I think he does an excellent job of creating surprising and compelling stories.

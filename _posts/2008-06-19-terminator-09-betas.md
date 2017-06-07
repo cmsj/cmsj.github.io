@@ -1,6 +1,7 @@
-Title: Terminator 0.9 Betas
-Date: 2008-06-19
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Terminator 0.9 Betas
+date: 2008-06-19
+---
 
 The [list of bugs](https://edge.launchpad.net/terminator/+milestone/0.9 "Terminator 0.9 Milestone bugs") left for Terminator 0.9 is getting shorter (although I do keep failing to resist the temptation to add more) and so it's time to try and get some wider testing.
 Therefore, we've started uploading beta packages of 0.9 to our PPA. If you want to help test and you run Ubuntu, add this apt source:

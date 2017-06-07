@@ -1,6 +1,7 @@
-Title: Farm ore punny
-Date: 2007-05-11
-Tags: General
+---
+title: Farm ore punny
+date: 2007-05-11
+---
 
     < koudelkat> He's such a boar
     < Ng> koudelkat: bee quiet, that's a terribull pun ;)

@@ -1,6 +1,7 @@
-Title: LCD and a crazy disk chassis
-Date: 2013-02-06
-Tags: hp LCD Techie lcd4linux microserver
+---
+title: LCD and a crazy disk chassis
+date: 2013-02-06
+---
 
 <span style="background-color: #cfe2f3;">TL;DR, pics and a video, below the jump</span>
 If you saw my [recent post](http://www.tenshu.net/2013/01/funky-lcd4linux-python-module.html) on some preparatory work I'd been doing for the arrival of an LCD status panel for my HP Microserver, it's probably no surprise that there is now a post talking about its arrival :)

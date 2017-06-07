@@ -1,6 +1,7 @@
-Title: Terminator 0.14 released!
-Date: 2009-12-03
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Terminator 0.14 released!
+date: 2009-12-03
+---
 
 This has been another long gap release unfortunately, but we do have some goodies for you.
 Stephen Boddy is back with some excellent re-working of the UI relating to grouping terminals, Kees Cook brings us some clever work relating to window geometry and myself and others have been fixing bugs for you. We hope you enjoy this release, especially those of you who hated the "I'll be back" notifications from 0.13!

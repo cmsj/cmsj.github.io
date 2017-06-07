@@ -1,6 +1,7 @@
-Title: The Ancestor’s Tale
-Date: 2005-09-28
-Tags: Books
+---
+title: The Ancestor’s Tale
+date: 2005-09-28
+---
 
 While I was on holiday recently I went on a bit of a reading marathon, which included The Ancestor's Tale, by Richard Dawkins.
 I just can't recommend this book enough - unless you are a wizened old Biology professor you aren't going to know all of the cool and fascinating things in this book, but you should! Especially in these times of madness where Intelligent Design creeps insidiously through the minds of many.

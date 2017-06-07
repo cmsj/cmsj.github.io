@@ -1,6 +1,7 @@
-Title: openssh 5.1 chrootdirectory permissions issue
-Date: 2008-10-09
-Tags: FOSS Techie Ubuntu
+---
+title: openssh 5.1 chrootdirectory permissions issue
+date: 2008-10-09
+---
 
 If you're playing with the excellent new *ChrootDirectory* and *internal-sftp* options in recent OpenSSH releases (such as 5.1 which is in Ubuntu 8.10 Intrepid), you may have hit an error like:
 

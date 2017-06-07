@@ -1,6 +1,7 @@
-Title: Delightful Hybridisation
-Date: 2010-07-29
-Tags: Music
+---
+title: Delightful Hybridisation
+date: 2010-07-29
+---
 
 I've probably mentioned before that I really like the music of [Hybrid](http://www.hybridsoundsystem.com/ "Hybrid"), so I figured I'd pimp some stuff of theirs that's floated onto the web recently:
 

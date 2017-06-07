@@ -1,6 +1,7 @@
-Title: What is the value of negative feedback on the Internet?
-Date: 2011-10-11
-Tags: Techie
+---
+title: What is the value of negative feedback on the Internet?
+date: 2011-10-11
+---
 
 I'm sure we've all been there - you buy something on eBay or from a third party on Amazon, and what you get is either rubbish or not what you asked for.
 The correct thing to do is to talk to the seller first to try and resolve your problem, and then when everything is said and done, leave feedback rating the overall experience.

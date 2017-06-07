@@ -1,6 +1,7 @@
-Title: HP Microserver Remote Access Card
-Date: 2012-01-05
-Tags: Techie
+---
+title: HP Microserver Remote Access Card
+date: 2012-01-05
+---
 
 I've been using an HP ProLiant Microserver (N36L) as my fileserver at home, for about a year and it's been a really reliable little workhorse.
 Today I gave it a bit of a spruce up with 8GB of RAM and the Remote Access Card option.

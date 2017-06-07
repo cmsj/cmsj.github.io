@@ -1,6 +1,7 @@
-Title: Python wanderings, part one
-Date: 2009-12-23
-Tags: FOSS Techie Python Terminator
+---
+title: Python wanderings, part one
+date: 2009-12-23
+---
 
 As mentioned in my earlier post about refactoring Terminator, I want to talk about some of the things I've learned about Python and programming in the last few months. If I were you I wouldn't place any great significance in anything I'm about to say - after all I'm a rank amateur in the field of programming.
 This is going to be a multi-part post so I at least get something out there, rather than leaving it to rot forever in my drafts folder.

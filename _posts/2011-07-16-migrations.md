@@ -1,6 +1,7 @@
-Title: Migrations
-Date: 2011-07-16
-Tags: Techie Rant
+---
+title: Migrations
+date: 2011-07-16
+---
 
 To the cloud!
 I'm officially done hosting my own Wordpress blog. Not because it's particularly hard, but because it's quite boring. I would have done a straight export/import into a wordpress.com blog, but their options for hosting on a personal domain are pretty insane - if you want to host your blog on domain.com or www.domain.com you have to just point the entire domain at the wordpress.com DNS servers.

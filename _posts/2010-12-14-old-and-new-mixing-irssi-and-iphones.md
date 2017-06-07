@@ -1,6 +1,7 @@
-Title: Old and new: Mixing irssi and iPhones for fun and no profit
-Date: 2010-12-14
-Tags: FOSS Techie Ubuntu
+---
+title: Old and new: Mixing irssi and iPhones for fun and no profit
+date: 2010-12-14
+---
 
 Introduction
 ============

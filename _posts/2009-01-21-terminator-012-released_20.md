@@ -1,6 +1,7 @@
-Title: Terminator 0.12 released!
-Date: 2009-01-21
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Terminator 0.12 released!
+date: 2009-01-21
+---
 
 I've just uploaded a new version of Terminator!
 This time we merry band of elves bring you a delightful mix of bug fixes and new features. Here's the change log:

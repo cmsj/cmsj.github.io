@@ -1,6 +1,7 @@
-Title: Foo Fighters Wembley Concert, the tale of a weekend like no other
-Date: 2008-11-19
-Tags: Music
+---
+title: Foo Fighters Wembley Concert, the tale of a weekend like no other
+date: 2008-11-19
+---
 
 It seems like I have failed utterly to comment on the towering totem of raw awesome that was the Foo Fighters concert on a balmy Saturday in June.
 To put the event in context, I spent a few hours during the day with Rike, Alex and Simon in Hyde Park at the Red Bull Flügtag. We ate, we drank, we watched ridiculous people flinging themselves from a raised platform into The Serpentine in craft that almost invariably were capable solely of an ungraceful and undignified plunge. The notable exception being a poor attempt at a basic hangglider design, which somehow stalled and dived its way to a distance record.

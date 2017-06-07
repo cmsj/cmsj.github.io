@@ -1,6 +1,7 @@
-Title: Python wanderings, part two
-Date: 2009-12-31
-Tags: FOSS Techie Python Terminator
+---
+title: Python wanderings, part two
+date: 2009-12-31
+---
 
 2. Plugging it all in
 ---------------------

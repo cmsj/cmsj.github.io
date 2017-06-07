@@ -1,6 +1,7 @@
-Title: Quick guide to saving power with USB devices
-Date: 2008-10-09
-Tags: FOSS Techie Ubuntu
+---
+title: Quick guide to saving power with USB devices
+date: 2008-10-09
+---
 
 I have a laptop with some USB stuff built in. Some devices (such as Bluetooth) can be made to entirely disappear from the USB bus, however, the fingerprint reader and webcam can't, but they sit on the USB bus and draw power.
 Fortunately the USB specs allow devices to be put to sleep if they're not being used and support that feature. Unfortunately many devices advertise they support it when they really don't, so Linux is unable to automatically put every USB device to sleep.

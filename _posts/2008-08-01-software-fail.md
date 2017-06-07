@@ -1,6 +1,7 @@
-Title: Software fail
-Date: 2008-08-01
-Tags: FOSS Techie Ubuntu Rant
+---
+title: Software fail
+date: 2008-08-01
+---
 
 **Update:** It has been suggested that it is not productive or collaborative to talk negatively about some developers releasing software for unixy operating systems without really trying to integrate it with the versions of widely deployed software available in those operating systems.
 It is a fair point. It's not productive or collaborative. It may be true, but ranting about it doesn't help anyone but me.

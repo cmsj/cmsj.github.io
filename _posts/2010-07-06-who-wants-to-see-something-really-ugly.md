@@ -1,6 +1,7 @@
-Title: Who wants to see something really ugly?
-Date: 2010-07-06
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Who wants to see something really ugly?
+date: 2010-07-06
+---
 
 I think it should be abundantly clear from my postings here that I'm not a very good programmer, and this means I give myself a lot of free rope to do some very stupid things.
 I'm in constant need of debugging information and in Terminator particularly where we have lots of objects all interacting and reparenting all the time. We've had a simple dbg() method for a long time, but I was getting very bored of typing out dbg('Class::method:: Some message about %d' % foo), so I decided to see what could be done about inferring the Class and method parts of the message.

@@ -1,6 +1,7 @@
-Title: Terminator 0.5 released
-Date: 2007-11-09
-Tags: FOSS Techie Terminator
+---
+title: Terminator 0.5 released
+date: 2007-11-09
+---
 
 Terminator 0.5 is out. This is another bugfix release. This one includes some pretty major fixes and some new default behaviours.
 Maximisation of the window is no longer the default (but you can pass -m to do it). Additionally, you will just get one terminal when you start Terminator. Ctrl-shift-h and ctrl-shift-v will split the terminals (or you can still right click for a context menu).

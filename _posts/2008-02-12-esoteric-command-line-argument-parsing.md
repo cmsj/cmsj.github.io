@@ -1,6 +1,7 @@
-Title: Esoteric command line argument parsing in python
-Date: 2008-02-12
-Tags: FOSS Techie
+---
+title: Esoteric command line argument parsing in python
+date: 2008-02-12
+---
 
 [Terminator](http://www.tenshu.net/terminator/) will soon appear in GNOME's Preferred Applications preferences if you have it installed and as such I figure we need to support -x in the same way gnome-terminal does.
 What that basically means is that \*anything\* which occurs after -x on the command line is the command to execute and its arguments, so:

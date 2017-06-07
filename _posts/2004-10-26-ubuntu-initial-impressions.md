@@ -1,6 +1,7 @@
-Title: Ubuntu initial impressions
-Date: 2004-10-26
-Tags: FOSS Ubuntu
+---
+title: Ubuntu initial impressions
+date: 2004-10-26
+---
 
 I've been running Ubuntu since a week or so before the launch and so far I'm quite happy with it. It feels mostly like Debian, which is what I was running before I moved to Fedora (for the better 32/64bit compatibility), but has a little more pace to it so far, plus a pretty significant surge of good will and interest.
 One thing I am a little disappointed in is that it seems the releases (in this case their first; warty) won't change much beyond security and important bug fixes. They are scheduled for every 6 months though. Personally I still think a rolling-stable approach to the desktop is going to be a killer feature if it happens.

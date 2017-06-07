@@ -1,6 +1,7 @@
-Title: Changing GPG key
-Date: 2016-08-30
-Tags: 
+---
+title: Changing GPG key
+date: 2016-08-30
+---
 
 It's been 15 years and my GPG key is now looking hilariously out of date - 1024bit DSA key. Yuck.
 So, time to start over. Below is a statement about the change, with details of my new and old keys, signed by both keys. Since it will almost certainly not paste properly out of a browser, I have also uploaded it to GitHub: [here](https://gist.githubusercontent.com/cmsj/3093f03e085239de0e64ea33d1b2bfab/raw/82c2cb9110e83f0aae4a8155aec954c3aa9aab3b/gpg-migration.txt.asc.asc).

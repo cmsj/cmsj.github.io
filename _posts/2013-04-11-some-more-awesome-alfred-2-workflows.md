@@ -1,6 +1,7 @@
-Title: Some more awesome Alfred 2 workflows
-Date: 2013-04-11
-Tags: apple Techie workflow alfred
+---
+title: Some more awesome Alfred 2 workflows
+date: 2013-04-11
+---
 
 I keep finding super handy little things to do with Alfred 2 and so I thought I'd post some more:
 

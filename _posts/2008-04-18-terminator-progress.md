@@ -1,6 +1,7 @@
-Title: Terminator progress
-Date: 2008-04-18
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Terminator progress
+date: 2008-04-18
+---
 
 Just a quick update on how things are going.
 I've been pretty slow lately because of trying to get as many bugs fixed in Hardy as possible.

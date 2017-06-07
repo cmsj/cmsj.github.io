@@ -1,6 +1,7 @@
-Title: Terminator PPA plans
-Date: 2008-01-31
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: Terminator PPA plans
+date: 2008-01-31
+---
 
 Some administrivia about my PPA builds of Terminator.
 Firstly, and somewhat late (for which I apologise), the 0.7 release should be available shortly from the PPA. It's just been accepted, so should be built for gutsy soon.

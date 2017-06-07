@@ -1,6 +1,7 @@
-Title: More PS3 video stuff
-Date: 2007-06-09
-Tags: General
+---
+title: More PS3 video stuff
+date: 2007-06-09
+---
 
 I came across a python script called [vepp](http://can.homeunix.org/sw/vepp/), which aims to be a simple way of transcoding files for portable media devices. Why not also use it for very unportable media devices such as the PS3? :)
 Initially I've just added a target for fairly high bitrate 720p H.264/AVC, 1080 and MPG-SP targets still to come.

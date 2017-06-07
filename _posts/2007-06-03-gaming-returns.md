@@ -1,6 +1,7 @@
-Title: Gaming returns
-Date: 2007-06-03
-Tags: Games
+---
+title: Gaming returns
+date: 2007-06-03
+---
 
 I've been missing my PS2 a lot recently. Sure I have a copy of Windows lying around for when i want to play some games there, but rebooting is much hassle and then I have to fight with Windows. Console games are generally more to my tastes too.
 I flirted with a PSP for a while, but I was really dissatisfied with the games available for it (in that they are postly either not my kind of thing, or cut down PS2 games) and so traded it with a friend for a little Linux PDA.

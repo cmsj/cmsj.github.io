@@ -1,6 +1,7 @@
-Title: Watching the PS3
-Date: 2007-06-04
-Tags: Games
+---
+title: Watching the PS3
+date: 2007-06-04
+---
 
 I don't even remotely have space at the moment for a large TV (even a flatscreen one), also they are still a little expensive (I figure if it's worth doing, it's worth getting a 40" Sony which does 1080p, but that's 1200 quid at the moment).
 I really really didn't want to buy a small TV because they are overpriced (compared to higher resolution monitors) and the thing wouldn't be useful to me when I eventually get a proper TV.

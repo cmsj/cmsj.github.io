@@ -1,6 +1,7 @@
-Title: Let's be perfectly clear here...
-Date: 2008-05-20
-Tags: Rant
+---
+title: Let's be perfectly clear here...
+date: 2008-05-20
+---
 
 [Scientology is not a religion, it is a dangerous cult](http://www.guardian.co.uk/uk/2008/may/20/1).
 It's utterly outrageous that we have a law which supposedly prevents individuals from expressing their opinion.

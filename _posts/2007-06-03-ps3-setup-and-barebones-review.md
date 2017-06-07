@@ -1,6 +1,7 @@
-Title: PS3 setup and barebones review
-Date: 2007-06-03
-Tags: Games
+---
+title: PS3 setup and barebones review
+date: 2007-06-03
+---
 
 To expedite getting the thing set up, I used the supplied AV cable (3 RCA jacks for video, left audio and right audio. They're probably on the front of your TV under a flap) and a Sony TV to start with.
 The initial setup was pretty straight forward, I really like that I get to choose exactly where video and audio are sent - especially since I want my final setup to use the HDMI port to output video and the AV port to output audio. There are too many steps required to do all this setup, especially agreeing to EULAs, but it's all pretty simple and I quickly got the thing connected to my wireless network (builtin wifi is an excellent touch), registered on the Playstation Network and updated to the recently released 1.80 firmware.

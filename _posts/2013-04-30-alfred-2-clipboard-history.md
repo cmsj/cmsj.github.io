@@ -1,6 +1,7 @@
-Title: Alfred 2 clipboard history
-Date: 2013-04-30
-Tags: OSX Techie alfred
+---
+title: Alfred 2 clipboard history
+date: 2013-04-30
+---
 
 The toweringly awesome Alfred 2 app for OS X has a great clipboard history browser. This is how I suggest you configure and use it:
 

@@ -1,6 +1,7 @@
-Title: New Terminator feature: Directional terminal navigation
-Date: 2008-12-20
-Tags: FOSS Techie Ubuntu Terminator
+---
+title: New Terminator feature: Directional terminal navigation
+date: 2008-12-20
+---
 
 One of the nice side effects of being at an Ubuntu Developer Summit is the interesting conversations you have with people outside of the sessions themselves (which, as a sysadmin present to support the event itself, I was not particularly involved in).
 One such conversation was over lunch in a busy Google canteen with Kees Cook, one of our rocking security engineers and a thoroughly decent chap. After a while we came to the subject of Terminator and some of the features we'd like to implement, the ones that have been requested and we're not particularly motivated to work on, and the odd ones.

@@ -1,6 +1,7 @@
-Title: Half-Life 2: Deathmatch
-Date: 2004-12-12
-Tags: General
+---
+title: Half-Life 2: Deathmatch
+date: 2004-12-12
+---
 
 Blimey. This is quite some intense action!
 In a way it's more like playing Quake than it is Half Life - it feels even more intense than the original Half Life multiplayer deathmatch at least.

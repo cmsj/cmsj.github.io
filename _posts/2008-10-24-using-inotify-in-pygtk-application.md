@@ -1,6 +1,7 @@
-Title: Using inotify in a pygtk application without pyinotify
-Date: 2008-10-24
-Tags: FOSS Techie Terminator
+---
+title: Using inotify in a pygtk application without pyinotify
+date: 2008-10-24
+---
 
 I am lazy. There's no denying it, it's simple fact.
 That means, for example, when I am working with pygtk and I look at the API for pynotify, I am sad, because it's a polling API and I hate polling.

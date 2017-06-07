@@ -1,6 +1,7 @@
-Title: Adventures in Puppet: concat module
-Date: 2010-08-04
-Tags: FOSS Puppet Techie Ubuntu
+---
+title: Adventures in Puppet: concat module
+date: 2010-08-04
+---
 
 R.I. Pienaar has a Puppet module on github called "concat". Its premise is very simple, it just concatenates fragments of text together into a particular file.
 I'm sure that a more seasoned Puppet veteran would have had this running in no time, but since it introduced some new concepts for me, I thought I'd throw up some notes of how I'm using it. I was particularly interested in an example usage I saw which lists the puppet modules a system is using in its /etc/motd, but because of the way Ubuntu handles constructing the motd, I needed to slightly rework the example. In Ubuntu, the /etc/motd file is constructed dynamically when you log in - this is done by pam\_motd which executes the scripts in /etc/update-motd.d/. One of those scripts (99-footer) will simply append the contents of /etc/motd.tail to /etc/motd after everything else - my example will take advantage of this. If you are already using motd.tail, you could just have this puppet system write to a different file and then drop another script into /etc/update-motd.d/ to append the contents of that different file.

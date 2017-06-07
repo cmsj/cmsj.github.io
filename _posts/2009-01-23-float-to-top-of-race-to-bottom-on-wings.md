@@ -1,6 +1,7 @@
-Title: Float to the top of the race to the bottom, on wings of quality
-Date: 2009-01-23
-Tags: Techie Rant
+---
+title: Float to the top of the race to the bottom, on wings of quality
+date: 2009-01-23
+---
 
 I came across an interesting [blog post](http://www.appcubby.com/blog/files/app_store_pricing.html) earlier, in which the creators of some iPhone applications dropped their pricing and asked their users to consider donating money to them if they felt the applications were worth more. This being a reaction to applications on the store generally trending towards $0.99 in a massive war of attrition among the 15,000 applications there. It's a market worth fighting for considering there are 5 million downloads a day, but you need to be compelling, and price is the easiest way to do that. Not necessarily the best though.
 I had never heard of their apps, so I went to their site to check them out and they certainly look good - something that a lot of the apps I've tried don't, but I noticed straight away that it was basically just the same idea rehashed in a few different forms. I felt compelled to comment on their forums:

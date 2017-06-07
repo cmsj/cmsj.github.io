@@ -1,6 +1,7 @@
-Title: Grand Theft Auto: San Andreas
-Date: 2004-10-30
-Tags: Games
+---
+title: Grand Theft Auto: San Andreas
+date: 2004-10-30
+---
 
 It's scant hours since the release of the latest in Rockstar North's venerable GTA series and we've been giving the game a good bashing; these are my first impressions.
 The last GTA game, Vice City, was itself a dramatic improvement on the preceeding titles and Rockstar have continued the evolution of their beautiful engine with a variety of changes and new features that make the game more engaging and sustainable.

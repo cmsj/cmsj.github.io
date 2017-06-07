@@ -1,6 +1,7 @@
-Title: Iphone shortcomings
-Date: 2008-07-28
-Tags: Techie
+---
+title: Iphone shortcomings
+date: 2008-07-28
+---
 
 There's no doubting that the iphone is a hugely capable machine. It's powerful yet easy to use, but it's not perfect. Here are some things which I think are missing:
 \* DAAP - it would be great to be able to play music via wifi since the thing is a bit low on storage.

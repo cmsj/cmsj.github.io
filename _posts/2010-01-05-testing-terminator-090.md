@@ -1,6 +1,7 @@
-Title: Testing Terminator 0.90
-Date: 2010-01-05
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Testing Terminator 0.90
+date: 2010-01-05
+---
 
 You might have seen my recent posts about the epic refactoring that has been going on in the Terminator codebase for the last few months.
 I think it's finally time that we get some more eyeballs on it, mainly so I can check that I haven't massively screwed something up. I know there is lots of missing functionality right now, and probably a bunch of subtle bugs, but I could use your help quantifying exactly what these are!

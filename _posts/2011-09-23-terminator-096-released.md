@@ -1,6 +1,7 @@
-Title: Terminator 0.96 released
-Date: 2011-09-23
-Tags: FOSS Ubuntu Python Terminator
+---
+title: Terminator 0.96 released
+date: 2011-09-23
+---
 
 I've just pushed up the release tarball and PPA uploads for Terminator 0.96. It's mainly a bug fix release, but it does include a few new features. Many thanks to the various community folks who have contributed fixes, patches, bugs, translations and branches to this release. The changelog is below:
 

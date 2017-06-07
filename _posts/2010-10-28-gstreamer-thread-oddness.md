@@ -1,6 +1,7 @@
-Title: GStreamer thread oddness
-Date: 2010-10-28
-Tags: FOSS Techie Ubuntu Python
+---
+title: GStreamer thread oddness
+date: 2010-10-28
+---
 
 I sometimes find myself in a place where there are a number of Icecast streams going out at once and I'm interested in finding better ways of monitoring these. It seems like a nice option would be a window showing a visualisation of each stream.
 I quickly whipped up some python to do this, but it almost always locks up when I run it, but I'm not sure if I've done something fundementally wrong or if I've found a bug somewhere.

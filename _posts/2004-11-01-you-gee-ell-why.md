@@ -1,6 +1,7 @@
-Title: You Gee Ell Why!
-Date: 2004-11-01
-Tags: Music
+---
+title: You Gee Ell Why!
+date: 2004-11-01
+---
 
 It's Monday. It's the 1st of November. It's 2004. This means only one thing...
 Tonight I am going to an [Ugly Duckling](http://www.uglyduckling.us/) gig in London! WOO! More when I've actually been ;)

@@ -1,6 +1,7 @@
-Title: All your pixels are belong to me!
-Date: 2006-12-06
-Tags: General
+---
+title: All your pixels are belong to me!
+date: 2006-12-06
+---
 
 It's always kinda annoyed me when applications waste space with lots of menu bars and toolbars and stuff, when they could be using the space to show me useful stuff, or just be smaller.
 I appreciate that lots of people don't want information as densely packed as I do, but that's clearly not going to stop me trying. Up until now it's not been enough of an issue to do anything about, because I've had at least one big monitor for quite some time now.

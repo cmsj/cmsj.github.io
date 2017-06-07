@@ -1,6 +1,7 @@
-Title: I've got a, but I'm not a b
-Date: 2009-05-25
-Tags: Rant Friends
+---
+title: I've got a, but I'm not a b
+date: 2009-05-25
+---
 
 Just to subvert the absurd nonsense that Stuart Langridge has been enjoying recently, I present:
 

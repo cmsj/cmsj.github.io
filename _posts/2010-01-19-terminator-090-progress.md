@@ -1,6 +1,7 @@
-Title: Terminator 0.90 progress
-Date: 2010-01-19
-Tags: FOSS Techie Ubuntu Python Terminator
+---
+title: Terminator 0.90 progress
+date: 2010-01-19
+---
 
 Further to my previous post I thought I'd post a quick update about how things are progressing. I mentioned in my previous post that I knew of several things that were not yet working in the Epic Refactor branch:
 

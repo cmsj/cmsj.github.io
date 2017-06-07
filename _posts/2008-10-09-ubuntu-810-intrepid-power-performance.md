@@ -1,6 +1,7 @@
-Title: Ubuntu 8.10 (Intrepid) power performance
-Date: 2008-10-09
-Tags: FOSS Techie Ubuntu
+---
+title: Ubuntu 8.10 (Intrepid) power performance
+date: 2008-10-09
+---
 
 In one word: wow.
 Out of sheer curiosity last night I fired up the excellent *powertop* and decided to see how my system was doing. It was producing a couple of hundred fewer interrupts per second than it did in 8.04 (Hardy), and was using 1-2Watts less power.

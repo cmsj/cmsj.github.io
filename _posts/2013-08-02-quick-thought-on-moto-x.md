@@ -1,6 +1,7 @@
-Title: The curious Moto X pricing
-Date: 2013-08-02
-Tags: mobile Techie
+---
+title: The curious Moto X pricing
+date: 2013-08-02
+---
 
 Comparing the Moto X to the Nexus 4 is interesting in one particular respect - the price.
 The Nexus 4 (made by LG, sold by Google) had very respectable specs when it was launched, but its price was surprisingly low ($300 off contract). We were told this was because it was being sold very close to cost price.

@@ -1,6 +1,7 @@
-Title: Thoughts on a modular Mac Pro
-Date: 2013-06-10
-Tags: OSX apple Techie mac
+---
+title: Thoughts on a modular Mac Pro
+date: 2013-06-10
+---
 
 There have been some rumours recently that the next iteration of the Mac Pro is going to be modular, but we have had very little information about how this modularity might be expressed.
 In some ways the current Mac Pro is already quite modular - at least compared to every other Mac/MacBook. You have easy access to lots of RAM slots, you have multiple standards-compliant disk bays, PCI slots and CPU sockets.

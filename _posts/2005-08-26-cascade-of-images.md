@@ -1,6 +1,7 @@
-Title: Cascade of images
-Date: 2005-08-26
-Tags: General
+---
+title: Cascade of images
+date: 2005-08-26
+---
 
 I've been up to things again and finally got around to putting the pictures up.
 ![Jazz Cafe Picnic](http://gallery.tenshu.net/albums/2005_08_14-Jazz_Cafe_Picnic/thumb_dsc00120.jpg)To kick things off we have a gallery of photos from the Jazz Cafe Picnic at Marble Hill in Twickenham (London). It can be found [here](http://gallery.tenshu.net/thumbnails.php?album=32).

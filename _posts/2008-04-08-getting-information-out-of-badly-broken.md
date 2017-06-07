@@ -1,6 +1,7 @@
-Title: getting information out of a badly broken debian installer
-Date: 2008-04-08
-Tags: FOSS Techie Ubuntu
+---
+title: getting information out of a badly broken debian installer
+date: 2008-04-08
+---
 
 You have new hardware (most likely server).
 You pop in a debian/ubuntu installer CD, tell it what kind of keyboard you have and expect it to scan the CDROM for packages, but....uh-oh, it can't find the CD!

@@ -1,6 +1,7 @@
-Title: Ubuntu Dapper 6.06 LTS on an IBM/Lenovo Thinkpad x40
-Date: 2006-08-08
-Tags: General
+---
+title: Ubuntu Dapper 6.06 LTS on an IBM/Lenovo Thinkpad x40
+date: 2006-08-08
+---
 
 *Note: This post is a work-in-progress, I will probably come back to this and change/update/rewrite it at will*
 I picked up a ThinkPad x40 recently to use with Dapper and I thought I'd chuck up a few notes from my experience thus far. I deliberately chose the ThinkPad because of the reputation of IBM's laptops and especially that they use very good hardware and it has to be said that on a modern distro, especially one that aims to work well with laptops, almost every bit of hardware works straight away after install. I would seriously recommend [ThinkWiki](http://www.thinkwiki.org/) to anyone attempting ThinkPad/Linux shenanigans - they have a huge amount of information about the various bits of hardware, installation guides, tips and a bunch more, all nicely tagged so you can tell which bits are relevant to the machine you own.

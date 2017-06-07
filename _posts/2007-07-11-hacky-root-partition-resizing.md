@@ -1,6 +1,7 @@
-Title: hacky root partition resizing
-Date: 2007-07-11
-Tags: FOSS Techie Ubuntu
+---
+title: hacky root partition resizing
+date: 2007-07-11
+---
 
 How would you shrink the root file system of a remote machine? Of course the easy answer is to boot into a rescue environment and do it (because you can't shrink ext3 online).
 If you have a good KVM or ILO setup, you already have a rescue environment of sorts - initramfs.

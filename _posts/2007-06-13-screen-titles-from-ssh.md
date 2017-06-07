@@ -1,6 +1,7 @@
-Title: screen titles from ssh
-Date: 2007-06-13
-Tags: FOSS Techie Ubuntu
+---
+title: screen titles from ssh
+date: 2007-06-13
+---
 
 I usually have at least 4 terminals visible on my screen at once. Each one is running screen(1), and each screen has probably at least 3 or 4 different things going on in it (usually sshing to servers).
 Once you are up to about a dozen or so shells spread across 4 terminals it can get quite interesting to remember where you left the one you are looking for.

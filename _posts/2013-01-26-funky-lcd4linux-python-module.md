@@ -1,6 +1,7 @@
-Title: Funky lcd4linux python module
-Date: 2013-01-26
-Tags: FOSS LCD NAS Techie Ubuntu lcd4linux fileserver
+---
+title: Funky lcd4linux python module
+date: 2013-01-26
+---
 
 I've got an LCD on the way, to put in my fileserver and show some status/health info.
 Rather than wait for the thing to arrive I've gone ahead and started making the config I want with lcd4linux.

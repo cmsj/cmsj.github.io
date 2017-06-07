@@ -1,6 +1,7 @@
-Title: Lifesaver 1.1 released!
-Date: 2009-09-25
-Tags: FOSS Techie Lifesaver
+---
+title: Lifesaver 1.1 released!
+date: 2009-09-25
+---
 
 This release incorporates some bug fixes and some new features: Animation, FriendFeed support, Configuration via gconf keys, Improved visual layout.
 

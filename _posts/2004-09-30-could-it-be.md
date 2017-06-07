@@ -1,6 +1,7 @@
-Title: Could it be?
-Date: 2004-09-30
-Tags: FOSS Ubuntu
+---
+title: Could it be?
+date: 2004-09-30
+---
 
 For a while now I've been thinking that it would be a good idea to have a distro that was Debian, but more pragmatic and much quicker to track upstream releases (presumably at the slight expense of package quality)
 [Ubuntu](http://www.ubuntu.com/) Linux is a fork of Debian's unstable branch, sid. It includes newer GNOME packages than sid (although they are due very shortly I believe) and appears to have a much more pragmatic approach to distro making. Bad for servers, good for getting a distro that has no release as such, but is just tracking the current stable releases of as much software as possible.

@@ -1,6 +1,7 @@
-Title: Zend Studio 64bitness
-Date: 2005-06-01
-Tags: FOSS Rant
+---
+title: Zend Studio 64bitness
+date: 2005-06-01
+---
 
 I'm quite a big fan of the Zend Studio development environment for PHP - I use it quite extensively at work and generally speaking it's a very capable tool and makes developing PHP a lot easier/quicker.
 However, it's closed source and quite expensive, which is a bit of a downside, but at the same time it should give me some leverage to get the features I want into future versions, right? Probably not.

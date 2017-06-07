@@ -1,6 +1,7 @@
-Title: Monitoring an Apple Airport Express/Extreme with Munin
-Date: 2011-01-29
-Tags: FOSS Techie Ubuntu Python
+---
+title: Monitoring an Apple Airport Express/Extreme with Munin
+date: 2011-01-29
+---
 
 So you have an Apple Airport (Express or Extreme), or a Time Capsule, and you want to monitor things like the signal levels of the connected clients? I thought so! That's why I wrote this post, because I'm thoughtful like that.
 While it's not necessary, I'd like to mention that this was made possible by virtue of Apple having put out an [SNMP MIB file](http://support.apple.com/kb/DL1186 "Apple's SNMP MIB file for their Airport products"). Without that, finding the relevant OIDs would have been sufficiently boring that I wouldn't have bothered with this, so yay for that (even if the MIB is suspiciously ancient).

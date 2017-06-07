@@ -1,6 +1,7 @@
-Title: Computing nostalgia
-Date: 2007-06-30
-Tags: Techie
+---
+title: Computing nostalgia
+date: 2007-06-30
+---
 
 It's pretty much exactly a decade since I started using Linux, so it seems like a good time to look back at what I used to use before.
 Immediately prior to jumping into the FOSS world, I was using Windows 98, but I don't really want to talk about that because I never really liked it and it hated my hardware, so it was a very brief partnership.

@@ -1,6 +1,7 @@
-Title: Rise of the Floating Fonters
-Date: 2009-10-20
-Tags: FOSS Techie Ubuntu
+---
+title: Rise of the Floating Fonters
+date: 2009-10-20
+---
 
 For about two years now I've been using a 127dpi laptop screen as my primary computer display. It's a comfortable thing to be looking at, and after much playing around I've settled on 6.5pt as my ideal application font size.
 No problems with that, right? Fontconfig says font sizes are a double (a high precision floating point number), but not all libraries/applications follow this.

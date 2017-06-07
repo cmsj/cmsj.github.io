@@ -1,6 +1,7 @@
-Title: HP Microserver Remote Access helper
-Date: 2012-01-06
-Tags: Techie Python
+---
+title: HP Microserver Remote Access helper
+date: 2012-01-06
+---
 
 I've only had the Remote Access card installed in my HP Microserver for a few hours and already I am bored of accessing it by first logging into the web UI, then navigating to the right bit of the UI, then clicking a button to download a .jnlp file and then running that with javaws(1).
 Instead, I have written some Python that will login for you, fetch the file and execute javaws. Much better!
