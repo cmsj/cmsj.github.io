@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: cmsj.net
-email: cmsj@tenshu.net
 description: As what as you like
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,6 +25,8 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
+paginate: 5
