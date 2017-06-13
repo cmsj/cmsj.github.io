@@ -60,4 +60,4 @@ If you're not confident at your ability to hand-merge JSON like this, and don't 
 
 *Supplemental note for High Sierra*
 
-I've only tested this very briefly on High Sierra, but I had to disable SIP to get the Elements `.kext` to load. I'm not quite sure what's going on, but I reported it [on GitHub](https://github.com/tekezo/Karabiner-Elements/issues/777).
+I've only tested this very briefly on High Sierra, but I had to disable SIP to get the Elements `.kext` to load. I'm not quite sure what's going on, but I reported it [on GitHub](https://github.com/tekezo/Karabiner-Elements/issues/777). (Note that you can re-enable SIP after the kext has been loaded successfully once)
