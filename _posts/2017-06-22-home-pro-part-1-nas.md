@@ -31,6 +31,10 @@ Something I was particularly keen on, with the Synology, was that it has an "app
 
 For now, the containers are running on an Intel NUC (which will also be covered in an upcoming post) and the Synology is focussed on file sharing.
 
+## Open Source
+
+Synology's NAS products are based on Linux, Samba, netatalk and a variety of other Open Source projects, with their custom management GUI on top. They do [publish source](https://sourceforge.net/projects/dsgpl/files/Synology%20NAS%20GPL%20Source/), but it's usually a little slow to arrive on the site, and it's not particularly easy (or in some cases even possible) to rebuild in a way that lets you actively customise the device.
+
 ## Conclusion
 
 Overall, I like the Synology, but I think if I'd known about the Docker issue, I might have built my own machine and put something like [FreeNAS](http://www.freenas.org/) on it. More work, less support, but more flexibility.
