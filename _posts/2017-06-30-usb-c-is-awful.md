@@ -5,9 +5,9 @@ date: 2017-06-30
 
 Intentionally inflammatory title there, but there are some valid reasons to be annoyed at USB Type C.
 
-Firstly, I have discovered (the hard way) that there are many cables on sale, actually the majority of Type C cables, that do not support even USB 3.0 speeds (so 5Gb/s) let alone USB 3.1gen2 (so 10Gb/s) speeds. They are actually USB 2.0 (so 480Mb/s) cables.
+Firstly, I have discovered (the hard way) that although there are many cables on sale, the majority of Type C cables do not support even USB 3.0 speeds (so 5Gb/s) let alone USB 3.1gen2 (so 10Gb/s) speeds. They are actually USB 2.0 (so 480Mb/s) cables.
 
-I can understand that some *devices* with Type C connectors may only need USB 2.0 speeds, but for the *cables* to not all be USB 3.x seems crazy to me. Even [Apple is doing this](https://www.apple.com/shop/product/MLL82AM/A/usb-c-charge-cable-2-m) - the charging cables for MacBooks with Type C ports, only support USB 2.0 speeds. If I had to guess, I'd say it's because they wanted the cables to be thin and easily bendable, which full USB 3.1 cables tend not to be.
+I can understand that some *devices* with Type C connectors may only need USB 2.0 speeds, but for the *cables* to not all be USB 3.x seems crazy to me. Even [Apple is doing this](https://www.apple.com/shop/product/MLL82AM/A/usb-c-charge-cable-2-m) - the charging cables for MacBooks (12" and Pros) with Type C ports, only support USB 2.0 speeds. If I had to guess, I'd say it's because they wanted the cables to be thin and easily bendable, which full USB 3.1 cables tend not to be.
 
 Secondly, unlike Type A, which marks USB 3.x cables by having blue plastic inside the connectors, there is no way to tell what speed a Type C cable is by looking at it.
 
