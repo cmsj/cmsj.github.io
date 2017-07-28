@@ -3,7 +3,7 @@ title: Happy 10th Birthday Terminator!
 date: 2017-07-28
 ---
 
-Today marks 10 years since the [very first public release](https://launchpad.net/terminator/+milestone/0.1) of Terminator, a multiplexing terminal emulator project.
+Today marks 10 years since the [very first public release](https://launchpad.net/terminator/+milestone/0.1) of [Terminator](https://gnometerminator.blogspot.co.uk/p/introduction.html), a multiplexing terminal emulator project.
 
 I started working on Terminator as a simple way to get 4 terminals to not overlap on my laptop screen. In the following years it grew many features and attracted a userbase I am very proud of.
 
