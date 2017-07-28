@@ -11,6 +11,6 @@ As much as I would like to, I cannot claim most of the credit for Terminator sur
 
 So, thank you to Stephen and everybody else who contributed code/docs/translations/suggestions/bugs/etc over the last 10 years (you can see the most active folk [here](https://launchpad.net/terminator/+topcontributors)).
 
-I'd also like to note that according to Ubuntu's [Popularity Contents](http://popcon.ubuntu.com) data, Terminator is installed on at least 56000 Ubuntu machines. Debian also has PopCon data, but the numbers there are [a little less impressive](https://qa.debian.org/popcon.php?package=terminator) ;)
+I'd also like to note that according to Ubuntu's [Popularity Contest](http://popcon.ubuntu.com) data, Terminator is installed on at least 56000 Ubuntu machines. Debian also has PopCon data, but the numbers there are [a little less impressive](https://qa.debian.org/popcon.php?package=terminator) ;)
 
 This was the first project of mine that reached any kind of significant audience, and is the first project of mine to have achieved a decade of active maintenance, so I am feeling pretty happy today!
