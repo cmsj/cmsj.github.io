@@ -26,7 +26,7 @@ Various awesome folk have put together [a spreadsheet](https://docs.google.com/s
 
 This post exists because I needed a USB3.0, three metre, Type A to Type C cable, and I bought one on Amazon, only to discover that it only supported USB2.0. After *far* too much searching, I eventually found an Anker cable which meets my requirements:
 
-* 3m/10ft: [UK](http://amzn.to/2t7scp2)|[US](http://amzn.to/2trgUyd)
-* 2m/6ft: [UK](http://amzn.to/2t82PU0)|[US](http://amzn.to/2s8DRm8)
-* 1m/3ft: [UK](http://amzn.to/2stsrbV)|[US](http://amzn.to/2snLzwR)
+ * 3m/10ft: [UK](http://amzn.to/2t7scp2)|[US](http://amzn.to/2trgUyd)
+ * 2m/6ft: [UK](http://amzn.to/2t82PU0)|[US](http://amzn.to/2s8DRm8)
+ * 1m/3ft: [UK](http://amzn.to/2stsrbV)|[US](http://amzn.to/2snLzwR)
 
