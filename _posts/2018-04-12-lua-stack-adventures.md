@@ -50,7 +50,7 @@ void someCallback(int aValue, char* aString) {
 }
 ```
 
-Slightly more complex than the last example, but still manageable. Unfortunately in practice this is a fairly suboptimal implementation of a C→Lua call - storing things in `LUA_REGISTRYINDEX` is fine, but it's often nicer to use multiple tables for different things. The big problem here though is that `lua_call()` doesn't trap errors. If the Lua code raises an exception, Lua will `longjmp` to a panic handler and `abort()` your app.
+Slightly more complex than the last example, but still manageable. Unfortunately in practice this is a fairly suboptimal implementation of a C→Lua call - storing things in the `LUA_REGISTRYINDEX` table is fine, but it's often nicer to use multiple tables for different things. The big problem here though is that `lua_call()` doesn't trap errors. If the Lua code raises an exception, Lua will `longjmp` to a panic handler and `abort()` your app.
 
 So, writing this a bit more completely, we get:
 
