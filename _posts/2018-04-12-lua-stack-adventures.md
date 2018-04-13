@@ -82,7 +82,7 @@ Ok so this is looking better, we have our own table for neatly storing function 
 
 However, we now have a problem, we're leaking at least one item onto Lua's stack and possibly two. Unlike in the Lua→C case, we are not operating within the safe confines of a pseudo-stack, so anything we leak here will stay permanently on the stack, and at some point that's likely to cause the stack to overflow.
 
-Now here is the kicker - stack overflows are really hard to find by default, you don't typically get a nice error, your program will simply leak stack slots until the stack overflows, far from the place where the leak is happening, and your backtraces will have very normal looking Lua API calls in them.
+Now here is the kicker - stack overflows are really hard to find by default, you don't typically get a nice error, your program will simply leak stack slots until the stack overflows, far from the place where the leak is happening, then segfault, and your backtraces will have very normal looking Lua API calls in them.
 
 If we were to handle the stack properly, the above could would actually look like this (and note that we've gone from four Lua API calls, to eight):
 
