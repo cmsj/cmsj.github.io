@@ -5,7 +5,7 @@ date: 2018-04-13
 
 [Hammerspoon](http://www.hammerspoon.org) is heavily dependent on [Lua](http://www.lua.org) - it's the true core of the application, so it's unavoidable that we have to interact with Lua's C API in a lot of places. If you've never used it before, Lua's C API is designed to be very simple to integrate with other code, but it also places a fairly high burden on developers to integrate it properly.
 
-One of the ways that Lua remains simple is by being stack based - when you give Lua a C function and ask it to make available to Lua code, you have to conform to a particular way of working. The function arguments supplied by the user will be presented to you on a stack, and when your C code has finished its work, the return values must have been pushed onto the stack. This is all very easy to work with, but it does require some careful book keeping. Here's an example:
+One of the ways that Lua remains simple is by being stack based - when you give Lua a C function and ask it to make available to Lua code, you have to conform to a particular way of working. The function arguments supplied by the user will be presented to you on a stack, and when your C code has finished its work, the return values must have been pushed onto the stack. Here's an example:
 
 ```C
 static int someUsefulFunction(lua_State *L) {
