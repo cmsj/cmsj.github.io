@@ -111,8 +111,8 @@ void someCallback(int aValue, char* aString) {
         char *someError = lua_tostring(L, -1);
         printf("ERROR: %s\n", someError);
 
-        // Remove the Lua error message from the stack
-        lua_pop(L, -1); // Remove the error string from the stack *THIS WAS LEAKED IN THE ABOVE EXAMPLE*
+        // Remove the Lua error message from the stack *THIS WAS LEAKED IN THE ABOVE EXAMPLE*
+        lua_pop(L, -1);
     }
 
     return;
