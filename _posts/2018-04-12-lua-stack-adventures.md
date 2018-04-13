@@ -99,7 +99,7 @@ void someCallback(int aValue, char* aString) {
     // Find globalLuaFunctionRef in luaCallbackTable, and push it onto the stack
     lua_rawgeti(L, -1, globalLuaFunctionRef);
 
-    // Remove luaCallbackTable from the stack
+    // Remove luaCallbackTable from the stack *THIS WAS LEAKED IN THE ABOVE EXAMPLE*
     lua_remove(L, -2);
 
     // Push the two arguments for the Lua function
@@ -112,7 +112,7 @@ void someCallback(int aValue, char* aString) {
         printf("ERROR: %s\n", someError);
 
         // Remove the Lua error message from the stack
-        lua_pop(L, -1); // Remove the error string from the stack
+        lua_pop(L, -1); // Remove the error string from the stack *THIS WAS LEAKED IN THE ABOVE EXAMPLE*
     }
 
     return;
