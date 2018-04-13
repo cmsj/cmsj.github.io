@@ -84,7 +84,7 @@ However, we now have a problem, we're leaking at least one item onto Lua's stack
 
 Now here is the kicker - stack overflows are really hard to find by default, you don't typically get a nice error, your program will simply leak stack slots until the stack overflows, far from the place where the leak is happening, then segfault, and your backtraces will have very normal looking Lua API calls in them.
 
-If we were to handle the stack properly, the above could would actually look like this (and note that we've gone from four Lua API calls, to eight):
+If we were to handle the stack properly, the above could would actually look like this (and note that we've gone from four Lua API calls in the first C→Lua example, to eight here):
 
 ```C
 int luaCallbackTable;
