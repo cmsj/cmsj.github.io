@@ -1,5 +1,5 @@
 ---
-title: A little bit of automation: Trello Mac App
+title: A little bit of automation of the Trello Mac App
 date: 2018-06-19
 ---
 
