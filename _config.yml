@@ -16,7 +16,7 @@
 title: cmsj.net
 description: As what as you like
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cmsj.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cmsj
 github_username:  cmsj
 author: Chris Jones
