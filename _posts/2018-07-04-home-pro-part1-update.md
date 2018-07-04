@@ -3,7 +3,7 @@ title: Home networking like a pro - Part 1.1 - Network Storage Redux
 date: 2018-07-04
 ---
 
-Back in [this post](/home-pro-part-1-nas.html) I described having switched from a Mac Mini + DAS setup, to a Synology and an Intel NUC setup, for my file storage and server needs.
+Back in [this post](/2017/06/22/home-pro-part-1-nas.html) I described having switched from a Mac Mini + DAS setup, to a Synology and an Intel NUC setup, for my file storage and server needs.
 
 For a time it was good, but I found myself wanting to run more server daemons, and the NUC wasn't really able to keep up. The Synology was plodding along fine, but I made the decision to unify them all into a more beefy Linux machine.
 
