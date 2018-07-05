@@ -7,4 +7,4 @@ So this is a fun one, some marvellous hackers, including Zoltan Balaton and Seba
 
 I'll probably write more about this later, but for now, here is a simple screenshot of the install CD having just booted.
 
-![Screenshot]({{ "/assets/2018-07-05-amigaos41-qemu.png" | absolute_url }})
+![Screenshot]({{ "/assets/2018-07-05-amigaos-qemu.png" | absolute_url }})
