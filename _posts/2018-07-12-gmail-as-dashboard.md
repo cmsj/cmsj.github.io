@@ -30,6 +30,7 @@ var configs = [
   { age_min:"14d", age_max:"90d", query:"subject:(Benedict's Newsletter)" },
   { age_min:"7d",  age_max:"30d", query:"from:hello@visualping.io subject:gnubert" },
   { age_min:"1d",  age_max:"7d",  query:"subject:(Nightly clone to Thunderbay4 Successfully)" },
+  { age_min:"1d",  age_max:"7d",  query:"from:Amazon subject:(Arriving today)" },
   ];
 
 function processInbox() {
