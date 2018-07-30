@@ -68,7 +68,7 @@ What we have done here is told stunnel to listen on our public IP on the same po
 
 ## colloquy_push.pl
 
-This is the irssi script which glues all the magic together - it receives special commands from the iPhone version of Colloquy and uses those to pass on Push Notifications when necessary. To load it, type `/script load colloquy_push.pl` and you probably want to symlink `/usr/share/irssi/scripts/colloquy_push.pl` into ~/.irssi/scripts/autorun/.
+This is the irssi script which glues all the magic together - it receives special commands from the iPhone version of Colloquy and uses those to pass on Push Notifications when necessary. To load it, type `/script load colloquy_push.pl` and you probably want to symlink `/usr/share/irssi/scripts/colloquy_push.pl` into `~/.irssi/scripts/autorun/`.
 
 ## Colloquy
 
