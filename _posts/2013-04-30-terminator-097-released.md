@@ -1,5 +1,4 @@
 ---
----
 Title: Terminator 0.97 released!
 Date: 2013-04-30
 ---
